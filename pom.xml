@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>github.tobsef</groupId>
-    <artifactId>hello-maven</artifactId>
+    <groupId>giang</groupId>
+    <artifactId>testgg</artifactId>
     <version>1.2.3</version>
 
     <build>
@@ -36,7 +36,7 @@
         <repository>
             <id>github</id>
             <name>GitHub TobseF Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/TobseF/HelloMaven</url>
+            <url>https://github.com/GIANG25021743/testcigg.git</url>
         </repository>
     </distributionManagement>
 
