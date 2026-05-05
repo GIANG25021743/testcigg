@@ -36,7 +36,8 @@
         <repository>
             <id>github</id>
             <name>GitHub TobseF Apache Maven Packages</name>
-            <url>https://github.com/GIANG25021743/testcigg.git</url>
+            <url>https://maven.pkg.github.com/GIANG25021743/testcigg
+</url>
         </repository>
     </distributionManagement>
 
