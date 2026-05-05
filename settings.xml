@@ -23,7 +23,7 @@
         <server>
             <id>github</id>
             <username>${env.GITHUB_USERNAME}</username>
-            <password>${env.GITHUB_TOKEN}</password>
+            <password>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</password>
         </server>
     </servers>
 </settings>
